@@ -1,0 +1,6 @@
+*.so
+*.o
+*.a
+*.bak
+tmp.*
+temp.*
